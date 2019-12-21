@@ -12,8 +12,8 @@
 - spot:
     name: conveniShelf2
     position:
-      x: 2.0
-      y: -15.597
+      x: 2.310
+      y: -15.701
       z: 0.0
     orientation:
       x: 0.0
@@ -119,3 +119,14 @@
       y: 0.0
       z: 0.011
       w: 1.0
+- spot:
+    name: container
+    position:
+      x: 2.148
+      y: -15.420
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.689
+      w: 0.725
